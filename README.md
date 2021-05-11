@@ -3,4 +3,4 @@ The S&P 500 is the world's most popular stock market index. The largest fund tha
 
 The goal of this project is to create a Python script that will accept the value of your portfolio and tell you how many shares of each S&P 500 constituent you should purchase to get an equal-weight version of the index fund.
 
-Static Stock Data has been fetched using <a href="https://iexcloud.io/">IEX Cloud API</a>
+Static Stock Data has been acquired from <a href="https://iexcloud.io/">IEX Cloud API</a>
